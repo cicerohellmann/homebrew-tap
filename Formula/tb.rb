@@ -1,8 +1,8 @@
 class Tb < Formula
   desc "Task board for Gradle: tick tasks, pick modules, run them in one build"
   homepage "https://github.com/cicerohellmann/taskboard"
-  url "https://github.com/cicerohellmann/taskboard/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "230e29c890260a9b0b3fa6deda166d28b266bcc1bfc4f82ce94759d5bb24405b"
+  url "https://github.com/cicerohellmann/taskboard/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "2e71ba524ee6ef4166c2aa48aca8f837a6fb1829c9c2f01d677600d7d6bd4f06"
   license "Unlicense"
 
   depends_on "fzf"
